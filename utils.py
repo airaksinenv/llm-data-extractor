@@ -1,4 +1,6 @@
 from pathlib import Path
+from string import Template
+from langchain_ollama import OllamaLLM
 from openai import AzureOpenAI
 from dotenv import load_dotenv
 from tqdm import tqdm
@@ -6,6 +8,8 @@ import pandas as pd
 import time, os
 
 load_dotenv()
+
+model = OllamaLLM(model="llama3:8b")
 
 API_KEY = os.environ.get('API')
 
@@ -43,7 +47,7 @@ def call_openai_api(prompt: str) -> str:
     
 
 # Funktio tietojen lukuun infokentistä
-def extractValuesFromText(df, path_to_prompt, output_path, plant_name):
+def extractValuesFromTextGPT(df, path_to_prompt, output_path, plant_name):
     """
     Tämä funktio on datasetille korjuuaika-taustatiedot-2020-2024-combined.xlsx
 
@@ -104,5 +108,28 @@ def extractValuesFromText(df, path_to_prompt, output_path, plant_name):
             file.write(f"Input: INFOTEKSTI: {row[0]}; Kasvilajit: {row[1]}; Lajikkeet: {row[2]}; Nurmen ikä: {row[3]}; Lannoitus, ajankohta ja -määrä: {row[4]}; Maalaji: {row[5]}; Muut lisätiedot: {row[6]};\n")
             file.write(f"Output: {response}\n")
             file.write("------\n")
+
+    print(f"Tiedosto käyty läpi ja tulokset löytyvät kohteesta: {output_path}")
+
+
+def extractValuesFromTextLlama(df, path_to_prompt, output_path):
+
+    # Get input prompt
+    question_file = Path(path_to_prompt)
+    question = Template(question_file.read_text())
+
+    start = time.time()
+
+    queries = df['INFOTEKSTI'].values
+    with open(output_path, "w") as file:
+        for query in tqdm(queries, desc="Käydään rivejä läpi"):
+            response = model.invoke(question.safe_substitute(input_query=query))
+            end = time.time()
+
+            # Write details to the text file
+            file.write(f"Time: {round(end-start, 1)} s\n")
+            file.write(f"Input: {query}\n")
+            file.write(f"Output: {response}\n")
+            file.write("\n")  # Add a blank line between entries
 
     print(f"Tiedosto käyty läpi ja tulokset löytyvät kohteesta: {output_path}")

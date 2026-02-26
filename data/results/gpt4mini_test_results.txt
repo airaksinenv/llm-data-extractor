@@ -68,33 +68,12 @@ Output: {
 "Ruokonata %": null
 }
 ------
-Input: NaN -row **
+Time: 2.6 s
+Input: INFOTEKSTI: timotei 75%, nurminata 15%, ruokonata 5%, apila/sinimailanen 5%.YaraMila NK 2. HtMm. Arin kotipelto; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
 Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 0.8 s
-Input: INFOTEKSTI: nan; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Yarabela seleenisalpietari 440 kg; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
+    "Ruokonata": 1,
     "Ruokonata variety": null,
-    "Ruokonata %": null
+    "Ruokonata %": 5
 }
 ------
 Input: NaN -row **
@@ -104,29 +83,8 @@ Output: {
 "Ruokonata %": null
 }
 ------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 1.4 s
-Input: INFOTEKSTI: TT (Tenho + Nuutti) 90 %, RN Karoliina 10%. Lannoitus 13.5. YaraMila Y4 400 kg/ha + 16.5. kaliumsuola 75 kg/ha. Maalaji m HtMr; Kasvilajit: nan; Lajikkeet: Timotei-Ruokonata 90:10, Tenho ja Nuutti sekä Karoliina.; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 13.5. YaraMila Y4 400 kg/ha + 16.5. kaliumsuola 75 kg/ha; Maalaji: m HtMr; Muut lisätiedot: nan;
+Time: 3.4 s
+Input: INFOTEKSTI: TT Grinstad 30% + Rubinia 20% + Uula 20%, NN Valtteri 10%, RN Karoliina 10%, engl.RH Riikka 10%. Lann 9.5. Agro 28-3-5+S+Mn+Zn+Se 365 kg/ha. Maalaji m HtMr; Kasvilajit: TT Grinstad 30% + Rubinia 20% + Uula 20%, NN Valtteri 10%, RN Karoliina 10%, engl.RH Riikka 10%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 9.5. Agro 28-3-5-+S+Mn+Zn+Se 365 kg/ha; Maalaji: m HtMr; Muut lisätiedot: 2v. nurmi;
 Output: {
     "Ruokonata": 1,
     "Ruokonata variety": "Karoliina",
@@ -175,106 +133,196 @@ Output: {
 "Ruokonata %": null
 }
 ------
-Time: 2.0 s
-Input: INFOTEKSTI: 3v nurmi rm HiueSavella. pH 6,1.  Perust Tilasiemenen apilaseos. Lann. Belor Premium 27 Se 360 kg, eli 97 kg N/ha. ; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: ```json
-{
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 4.4 s
+Input: INFOTEKSTI: Niitto 9.6.; Kasvilajit: timotei, nurminata; Lajikkeet: TT Rubinia 42%, Uula 10,5%, Grinstad 5%, NN Valtteri 21,5%, RN Karolina 10,5%, engl.rh Riikka 10,5%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 25.4. YaraMila NK2 450 kg/ha, liete/syksy 20 m3/ha; Maalaji: rm KHt; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Karolina",
+    "Ruokonata %": 10.5
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 5.2 s
+Input: INFOTEKSTI: Näytepaikka koulutila.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
     "Ruokonata": null,
     "Ruokonata variety": null,
     "Ruokonata %": null
 }
-```
 ------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 2.4 s
-Input: INFOTEKSTI: Tuure-timotei .Lannoitus 24.4.-20 Y1 350 kg/ha; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 3.0 s
-Input: INFOTEKSTI: Näytepaikka Kestilä. Peltosimen  ruokonataseos. TT Nuutti 50% + Grindstad 30%, NN Inkeri 10%, RN Karoliina 10%. Lannoitus 18.5. YaraBela SS 410 kg/ha. Maalaji m HtMr. 3v. nurmi; Kasvilajit: Peltosiemen ruokonataseos: TT Nuutti 50% + Grindstad 30%, NN Inkeri 10%, RN Karoliina 10%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: m HtMr; Muut lisätiedot: 3v. nurmi;
+Time: 6.1 s
+Input: INFOTEKSTI: Maalaji. kHt. TT Grindstad/Rubinia 45%, RuoNata Karoliina 20%, NN Kasper/Valtteri 15%, EngRH Riikka/Birger 10%, p.aplia 5+ als.apila 5%; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
 Output: {
     "Ruokonata": 1,
     "Ruokonata variety": "Karoliina",
-    "Ruokonata %": 10
+    "Ruokonata %": 20
 }
 ------
-Time: 6.6 s
-Input: INFOTEKSTI: Näytepaikka Artjärvi.Timotei-Nurminata-Ruokonata. Lannoitus    17.4.-21                                                            ; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Time: 6.9 s
+Input: INFOTEKSTI: Korjuu 17.6. TT Rubinia 42%, Uula 10,5%, Grinstad 5%, NN Valtteri 21,5%, RN Karolina 10,5%, engl.rh Riikka 10,5%. Lannoitus 25.4. YaraMila NK2 450 kg/ha, liete/syksy 20 m3/ha   Maalaji rm HHt; Kasvilajit: timotei, nurminata; Lajikkeet: TT Rubinia 42%, Uula 10,5%, Grinstad 5%, NN Valtteri 21,5%, RN Karolina 10,5%, engl.rh Riikka 10,5%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 25.4. YaraMila NK2 450 kg/ha, liete/syksy 20 m3/ha; Maalaji: rm HHt; Muut lisätiedot: nan;
 Output: {
     "Ruokonata": 1,
+    "Ruokonata variety": "Karolina",
+    "Ruokonata %": 10.5
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 7.7 s
+Input: INFOTEKSTI: 1.sato korjattu 12.6.2020 Kotkaniemin tutkimusasema; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
     "Ruokonata variety": null,
     "Ruokonata %": null
 }
@@ -286,27 +334,20 @@ Output: {
 "Ruokonata %": null
 }
 ------
-Input: NaN -row **
+Time: 8.8 s
+Input: INFOTEKSTI: 2 v. apilanurmi. Maalaji Hiuesavi. Lann. 23.4. YaraMila Y2 320 kg/ha.  Siem.seos TT Tryggve 60%, NN  SW Minto 25%, PA Yngve 10%, Alsap Frida 5%. Ei  täydennyskylvetty.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
 Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 7.1 s
-Input: INFOTEKSTI: Korjuu 21.6. LUOMU. TT 70%: Tammisto II, Uula, NN Kasper 17%, SW Yngve 7%, AA Dawn ja Frida 6%. Ei lannoitusta. Maalaji m HeS; Kasvilajit: timotei, nurminata, puna-apila, alsikeapila; Lajikkeet: TT 70%: Tammisto II, Uula, NN Kasper 17%, SW Yngve 7%, AA Dawn ja Frida 6%.; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Ei lannoitusta; Maalaji: m HeS; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
+    "Ruokonata": null,
     "Ruokonata variety": null,
     "Ruokonata %": null
 }
 ------
-Time: 7.6 s
-Input: INFOTEKSTI: Timotei/nurminata kylvetty 65/35 %, 3.satovuosi, lannoitus29.4. 350 kg/ha Yara Bela SeleeniSalpietari (94.5 kg N/ha), Maalaji multava hietasavi ; Kasvilajit: Timotei/nurminata kylvetty 65/35 %; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 29.4. 350 kg/ha Yara Bela SeleeniSalpietari (94.5 kg N/ha); Maalaji: Multava hietasavi; Muut lisätiedot: 3.satovuosi;
+Time: 9.7 s
+Input: INFOTEKSTI: Koulutila. LUOMU. 2v.nurmi. TT Nuutti 35 % + Tryggve 35 %, RN 5 %, NN 8 %, PA 12 %, VA 5 % + täyd. -23 TT Tryggve 10 kg/ha. Lann Polysulfaatti 150 kg/ha ja Yara Suna AGRA400 kg/ha.  Maalaji rm HtMr; Kasvilajit: TT Nuutti 35 % + Tryggve 35 %, RN 5 %, NN 8 %, PA 12 %, VA 5 % + täyd TT Tryggve 10 kg/ha 2023; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Polysulfaatti 150 kg/ha ja Yara Suna AGRA400 kg/ha; Maalaji: m HHt; Muut lisätiedot: 2v. nurmi;
 Output: {
     "Ruokonata": 1,
     "Ruokonata variety": null,
-    "Ruokonata %": 35
+    "Ruokonata %": 5
 }
 ------
 Input: NaN -row **
@@ -316,98 +357,35 @@ Output: {
 "Ruokonata %": null
 }
 ------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 8.1 s
-Input: INFOTEKSTI: 3v. nurmi. TT Grindstad + Rubinia 58%, NN Valtteri 15%, RN Karolina 10%, Niittynurmikka Balin 3%, PA Saija 6%, VA 6%, AA Frida 3%. Lann. 8.5. Y3 220 kg/ha + syksy -22 liete 30 tn/ha. Maalaji vm Hs/He; Kasvilajit: TT Grindstad+ Rubinia 58 %, NN Valtteri 15 %, RN Karolina 10 %, Pa Saija 6 %, Va 6 %, AA Frida 3 %, Niittynurmikka Balin 3 %; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 8.5. YaraMila Y3 340 kg/ha, syksy -22 liete 20 tn/ha; Maalaji: vm Hs/He; Muut lisätiedot: 3v. nurmi;
+Time: 10.5 s
+Input: INFOTEKSTI: , HkMr rm, satovuosi 1. •  Timotei (TuureBOR) 35%  •  Timotei (RhoniaBOR) 25%  •  Nurminata (KlaaraBOR)20%  •  Ruokonata (KarolinaBOR) 10%  •  Englanninraiheinä (RiikkaBOR) 10%  Yaramila y3 400kg 10.0; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
 Output: {
     "Ruokonata": 1,
     "Ruokonata variety": "Karolina",
     "Ruokonata %": 10
 }
 ------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 8.1 s
-Input: INFOTEKSTI: nan; Kasvilajit: Timotej, Ängssvingel, Rörsvingel, Eng. Rajgräs, Alsikeklöver, Rödklöve, Vitklöver; Lajikkeet: TT Nuutti 40%, NN Inkeri 15%, RN Karolina 15%, Eng. RH Riikka 8%, Alsikeapila Aurora 7%, PA Yngve 7%; VA Hebe 8%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 8.5. Nöt sväm 25 m3/ha. 11.5. Cemagro (27-0-0-Mg-Ca) 150 kg/ha; Maalaji: Mm; Muut lisätiedot: nan;
+Time: 11.1 s
+Input: INFOTEKSTI: 3v. nurmi. TT Nuutti 75 %, NN Inkeri 25 %. Lann YaraMila Y20 370 kg/ha. Maalaji m HtMr, rm HsS; Kasvilajit: TT Nuutti 75 %, NN Inkeri 25 %; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: YaraMila Y20 370 kg/ha; Maalaji: m HtMr, rm HsS; Muut lisätiedot: 3v. nurmi;
 Output: {
     "Ruokonata": null,
     "Ruokonata variety": null,
     "Ruokonata %": null
 }
 ------
-Time: 8.7 s
-Input: INFOTEKSTI: 1v. nurmi. TT Grindstad 53 %, NN Minto 21 %, engl.rh Birger 17 %, RN Swaj 9 %.  Lannoitus 27.4. Beloragro N27+Se 370 kg/ha. Maalaji m He; Kasvilajit: TT Grindstad 53 %, NN Minto 21 %, engl.rh Birger 17 %, RN Swaj 9 %; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 27.4. Beloragro N27+Se 370 kg/ha; Maalaji: m He; Muut lisätiedot: 1v. nurmi;
+Input: NaN -row **
 Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Swaj",
-    "Ruokonata %": 9
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 11.9 s
+Input: INFOTEKSTI: 2 v. nurmi. Kylvetty ohran alle Tilas. Supertuotto + täydennyskylvö 2021 samalla seoksella. Lannoitettu 29.4. 99 kg N/ha. Maalaji HeS; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
 }
 ------
 Input: NaN -row **
@@ -445,7 +423,141 @@ Output: {
 "Ruokonata %": null
 }
 ------
-Time: 9.1 s
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 12.6 s
+Input: INFOTEKSTI: 2 v. nurmi.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 13.3 s
 Input: INFOTEKSTI: TT Tuukka 80%, NN Inkeri 20%. Lann 10.5. Yara Y25 400 kg/ha. vmHHt; Kasvilajit: timotei, nurminata; Lajikkeet: TT Tuukka 80%, NN Inkeri 20%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 10.5. Yara Y25 400 kg/ha; Maalaji: vm HHt; Muut lisätiedot: nan;
 Output: {
     "Ruokonata": null,
@@ -453,273 +565,8 @@ Output: {
     "Ruokonata %": null
 }
 ------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 9.1 s
-Input: INFOTEKSTI: nan; Kasvilajit: TT Nuutti60% + Dorothy 10%, RN karoliina 10%, NN Inkeri 10%, eng.rh. Riikka 10%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 3.5. Yara Suomensalpietari 350 kg; Maalaji: HtMr; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 9.7 s
-Input: INFOTEKSTI: 3 v nurmi.  Lann. 22.4. Yara NK1 25-0-7 450 kg/ha. Rm . pH 7,0. Kylv. 40 kg/ha TT Grindstad 70%, NN Revanch 15%, RH Birger 15%.,; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: ```json
-{
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-```
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 10.2 s
-Input: INFOTEKSTI: TT-NN-raiheinä-ruokonata-seos. Lann.4.5.-21 Mila Y 2 350 kg/ha; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Time: 10.8 s
-Input: INFOTEKSTI: TT Rakel 30%, Nuutti 30%, NN Tored 10%, RN Swaj 10%, Engl.RH SW 20%.  8.5. Belor Premium Typpi 250 kg/ha ja 12.5. Naudan liete 25 tn/ha. Maalaji rm HeS; Kasvilajit: Timotei, Nurminata, Ruokonata, engl.raiheinä; Lajikkeet: TT Rakel 30%, Nuutti 30%, NN Tored 10%, RN Swaj 10%, Engl.RH SW 20%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 12.5. Naudan liete 25 tn/ha, 8.5. Belor Premium Typpi 250 kg/ha; Maalaji: rm HeS; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Swaj",
-    "Ruokonata %": 10
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 11.3 s
-Input: INFOTEKSTI: Timotei/nurminata/ruokonata	Tuure, Ilmari;Karoliina	Yara Y4 Hiven 430 kg kylv.10.5.; Kasvilajit: timotei, nurminata, ruokonata; Lajikkeet: TT Tuure, NN Ilmari, RK Karoliina; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Yara Y4 Hiven 430 kg kylv.10.5.; Maalaji: nan; Muut lisätiedot: Multamaa, Ct;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karoliina",
-    "Ruokonata %": null
-}
-------
-Time: 11.9 s
-Input: INFOTEKSTI: 2v nurmi. Perustettaessa Tuure timotei 80% ja sinimailanen 20% yht. 25kg/ha. Täydennyskylvö 4kg/ha Hankkijan Pikalaidunseos. Maalaji Karkeahieta.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 12.5 s
-Input: INFOTEKSTI: 2 v. nurmi; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Time: 12.9 s
-Input: INFOTEKSTI: 2 v. nurmi. ; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: 2v. nurmi;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 13.5 s
-Input: INFOTEKSTI: Karkea kivennäismaa, osin turvetta, Timotei, Nurminata, lann. 2.5. Y3Hiven 490 kg/ha; Kasvilajit: timotei, nurminata; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Nurminata",
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 13.5 s
-Input: INFOTEKSTI: nan; Kasvilajit: Timotei, Nurminata, Ruokonata, engl.raiheinä; Lajikkeet: TT Tuukka 25%, Tenho 15%, Grinstad 15%, MM Inkeri 20%, RN Karolina 15%, enrl.rh Riikka 10%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: YaraMila Y4 410 kg/ha; Maalaji: erm KHt; Muut lisätiedot: 3v. nurmi;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
 Time: 14.0 s
-Input: INFOTEKSTI: Puna-apila Saija, runsasmultainen hietamoreeni,  o	Lannoitus: kaliumsuola (K 50 %) 100 kg/ha 20.4.2021; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 14.5 s
-Input: INFOTEKSTI: 2v. nurmi.  TT Nuutti 60%, NN Kasper 17%, engl.rh Riikka 10%,  koiranheinä 3%, PA Betty ja AA Frida yht 10%. Lannoitus 8.5. YaraMila Y3 350 kg/ha. Maalaji rm HtMr; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Input: INFOTEKSTI: Ykkösvuoden nurmi. Tuure-timotei,lannoitus 24.4.-20 Y1 350 kg/ha; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
 Output: {
     "Ruokonata": null,
     "Ruokonata variety": null,
@@ -768,85 +615,8 @@ Output: {
 "Ruokonata %": null
 }
 ------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 15.2 s
-Input: INFOTEKSTI: Tuure/Ilmari/Karoliina N3 410 kg/ha; Kasvilajit: Tuurenurmi-seos, TT Tuure 75%, NN Ilmari 10%, RN Karolina 15%; Lajikkeet: TT Tuure, NN Ilmari, RK Karoliina; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: YaraMila Y 4 Hiven 430 liete 30 tn; Maalaji: nan; Muut lisätiedot: nan;
+Time: 14.8 s
+Input: INFOTEKSTI: Näytepaikka Ala-Härmä.; Kasvilajit: timotei, nurminata, ruokonata; Lajikkeet: TT Tuure 75%, NN Ilmari 10%, RN Karolina 15%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: YaraMila Y4 480 kg/ha; Maalaji: rm He; Muut lisätiedot: Perust 2018 Norrpakka, Hja Tuure nurmiseos;
 Output: {
     "Ruokonata": 1,
     "Ruokonata variety": "Karolina",
@@ -860,423 +630,8 @@ Output: {
 "Ruokonata %": null
 }
 ------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 15.7 s
-Input: INFOTEKSTI: Näytepaikka: Koulutila. TT Tuure 35 % + Rhonia 25 %, NN Klaara 20 %, RN Karolina 10 %, engl.rh Riikka 10 %. Lannoitus 6.5. Agro (27-3-5) 350 kg/ha. Maalaji m HHt; Kasvilajit: TT: Tuure 35%, Rhonia 25%, NN Klaara 20%, RN Karolina 10%, ERH Riikka 10%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 6.5. Agro (27-3-5) 350 kg/ha; Maalaji: m HHt; Muut lisätiedot: 2v. nurmi;
-Output: {{
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karolina",
-    "Ruokonata %": 10
-}}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 15.7 s
-Input: INFOTEKSTI: Näytepaikka Artjärvi.Timotei-Nurminata-Ruokonata. Lannoitus    17.4.-21                                                            ; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 16.4 s
-Input: INFOTEKSTI: TT Tenho 25 % ja Lischka 25 %, Rainata Hykor 15 %, Eng.Raiheinä Mathilde 15 %, Ruokonata Kora 10 %, Nurminata Fure 10 %, 25.4.2023 Befert CAN 27 400 kg/ha, kaliumsuola (K 50 %) 200 kg/ha ; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Kora",
-    "Ruokonata %": 10
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 16.4 s
-Input: INFOTEKSTI: nan; Kasvilajit: timotei, nurminata; Lajikkeet: TT Jonatan 75%, NN Kasperi 25% + 1.5.2020 täyd.kylvö 7.5 kg/ha TT Nuutti 75%, NN Inkeri 25%.; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 28.4. Y25 300 kg/ha, liete 9.5 29,5 m3/ha ja 30.5 Thiotrac 300 5 l/ha + mancozin 1 l/ha; Maalaji: rm KHt; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 17.0 s
-Input: INFOTEKSTI: 2. sato Lann 30.6. Typpilannoite 27 % 350 kg/ha Varma 1 -seos TT 75%, NN 25 %. rm KHt; Kasvilajit: Timotei, nurmi- ja ruokonata, puna-apila; Lajikkeet: TT Tuukka 21%,Tenho 40%, NN Ilmari 9%, Arita 9%, Fure 9%, RN Karolina 5,5%, PA 6,5%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 4.5. YaraBela Se-salpietari 215 kg/ha + YaraMila Y1 85 kg/ha; Maalaji: Mm; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karolina",
-    "Ruokonata %": 5.5
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 17.5 s
-Input: INFOTEKSTI: 2v. nurmi. TT-NN-RN. Lannoitus 30.4 250 kg N58:P7:K20. Maalaji Htmr; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 18.1 s
-Input: INFOTEKSTI: 3 satov nurmi. LjS +HeS. TT + RN + NN + EngRH. 23.4. Se-salpieteri 350 kg/ha = n. 95 kg N.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {{
-    "Ruokonata": 1,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 18.1 s
-Input: INFOTEKSTI: 3v. nurmi. TT Grindstad + Rubinia 58%, NN Valtteri 15%, RN Karolina 10%, Niittynurmikka Balin 3%, PA Saija 6%, VA 6%, AA Frida 3%. Lann. 8.5. Y3 220 kg/ha + syksy -22 liete 30 tn/ha. Maalaji vm Hs/He; Kasvilajit: TT Grindstad+ Rubinia 58 %, NN Valtteri 15 %, RN Karolina 10 %, Pa Saija 6 %, Va 6 %, AA Frida 3 %, Niittynurmikka Balin 3 %; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 8.5. YaraMila Y3 340 kg/ha, syksy -22 liete 20 tn/ha; Maalaji: vm Hs/He; Muut lisätiedot: 3v. nurmi;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karolina",
-    "Ruokonata %": 10
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 18.6 s
-Input: INFOTEKSTI: 2 v nur. MaalHtS. Lannoit. 30.4. Befert can27 410 kg/ha, liete 5.5. 25  t/ha. Siemenseos tilan oma, TT on Rubinia, Grindstad,Liljeroos, Uula NN on Minto, Valtteri + Eng RH+Amba KH+ RN Karol.ja Swaj ym; Kasvilajit: Siemenseos tilan oma, TT on Rubinia, Grindstad,Liljeroos, Uula NN on Minto, Valtteri + Eng RH+Amba KH+ RN Karol.ja Swaj ym; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Befert can 27 410 kg/ha 30.4.2024 Liete 5.5. 25 T/ha.; Maalaji: HtS; Muut lisätiedot: 2v. nurmi;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karol.ja, Swaj",
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 19.1 s
-Input: INFOTEKSTI: Näytepaikka Kestilä.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Time: 15.5 s
+Input: INFOTEKSTI: TT+NN-seos.Kevätlannoitus Agro(23-4-8-S2) 280 kg/ ha sekä liete; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
 Output: {
     "Ruokonata": null,
     "Ruokonata variety": null,
@@ -1339,2022 +694,8 @@ Output: {
 "Ruokonata %": null
 }
 ------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 19.6 s
-Input: INFOTEKSTI: Luke Maaninka.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 20.3 s
-Input: INFOTEKSTI: 2 v nurmi. Carbo 3 niiton seos , hieno hieta, Lannoitus: 350 kg Befert 27-3-5 = 94,5 kg N/ha.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 20.8 s
-Input: INFOTEKSTI: Näytepaikka Korpilahti. TT Tuure 65%, NN Ilmari 25%, engl rh Riikka 10%. Lannoitus 13.5. YaraBela SeSP 303 kg/ha. Maalaji m He; Kasvilajit: TT Tuure 65%, NN Ilmari 25%, engl rh Riikka 10%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 13.5. YaraBela SeSSP 303 kg/ha; Maalaji: m He; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 20.8 s
-Input: INFOTEKSTI: Näytepaikka Kestilä.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 21.3 s
-Input: INFOTEKSTI: TT Nuutti, NN Inkeri/Kasper. Lannoitus YaraMila Y1 380 kg/ha. Multamaa; Kasvilajit: timotei, nurminata; Lajikkeet: Nuutti, Inkeri/Kasper; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: YaraMila Y1 380 kg/ha; Maalaji: Mm; Muut lisätiedot: nan;
-Output: {  
-    "Ruokonata": null,  
-    "Ruokonata variety": null,  
-    "Ruokonata %": null  
-}  
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 21.8 s
-Input: INFOTEKSTI: 2v. nurmi missä Koiranheinää 30-40%.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 22.3 s
-Input: INFOTEKSTI: Tuurenurmi 2.vuosi, Y3 410kg/ha, Hht; Kasvilajit: Tuurenurmi 2.vuosi; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Y3 410kg/ha; Maalaji: HHt; Muut lisätiedot: Honkiniemi;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 22.9 s
-Input: INFOTEKSTI: Korjuu 19.6. TT Nuutti 66%,  NN Kasperi 15%, PA 10%. Lannoitus YaraMila Y4 Hiven 460 kg/ha. Multamaa; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 23.5 s
-Input: INFOTEKSTI: TTGrindstad 60%,NN Minto 10%,Ruokon.Swaj 10%,eng.raeh.20%; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {{
-    "Ruokonata": 1,
-    "Ruokonata variety": "Swaj",
-    "Ruokonata %": 10
-}}
-------
-Time: 24.0 s
-Input: INFOTEKSTI: 2v. nurmi, etelärinne, 50 m mpy ylempänä kuin Rantasalmi 2. TT Dorothy 40% + Nuutti 25%, NN Inkeri 20%, engl.rh Riikka 10% + Mathilde 5%, Lannoitus 11.5. Yara Y1 370 kg/ha. Maalaji rm HtMr; Kasvilajit: TT Dorothy 40% + Nuutti 25%, NN Inkeri 20%, engl.rh Riikka 10% + Mathilde 5%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 11.5. Yara Mila Y1 370 kg/ha; Maalaji: rm HtMr; Muut lisätiedot: 2v. nurmi Päivärinne;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Time: 24.5 s
-Input: INFOTEKSTI: TT 70%, lannoitettu 21.4. 300kg/ha seleenisalpietari. Täydennetty  TT Tryggve 35%, TT Tenho 20%, ER Riikka 10%, ER SW-Birger10%, ER Mathilde10%, IR Meroa10% ja VA Jögeva4 5%; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 24.9 s
-Input: INFOTEKSTI: Hiesusavi. TT + NN. Belor 105 kg N/ha.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 25.6 s
-Input: INFOTEKSTI: 1.v. nurmi: TT Tenho 40%, NN Minto 20%, RN Swaj 10%, Engl.rh  Birger 10%, Rainata Erun 10%, PA Altaswedw 10%. 17.4. Agro (28-3-5)+S+Mn+Zn+Se 370 kg/ha ja Lietelanta, Nauta 1.5. 30 tn/ha. Maalaji m HHt; Kasvilajit: Timotei, Nurminata, Engl. Raiheinä, Rainata, Puna-apila; Lajikkeet: TT Tenho 40%, NN SW Minto 20%, RN Swaj 10%, Engl.rh SW Birger 10%, Rainata Erun 10%, PA Altaswedw 10%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 17.4. Agro (28-3-5)+S+Mn+Zn+Se 370 kg/ha ja Lietelanta, Nauta 1.5. 30 tn/ha; Maalaji: m HHt; Muut lisätiedot: 1. vuoden nurmi;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Swaj",
-    "Ruokonata %": 10
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 26.2 s
-Input: INFOTEKSTI: 3 v, nur. 7.5. YaraMila y25 400 kg/ha. Lietettä syksyllä 20 m3/ha. TT Grindstad 25%, TT Rhonia 20%, NN Inkeri 20%, RaiN Hykor 10%, Erh Riikka 10%, RN Karoliina5%, PA Saija7%, SWHebe3%.  Ei täydk. -24.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karoliina",
-    "Ruokonata %": 5
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 26.9 s
-Input: INFOTEKSTI: 2v. nurmi: TT Trygge 75%, NN Minto 25% + RN Rarolina 1,5 kh/ha  ja PA SW Yngve 2 kg/ha. Lann 7.5.Yara Mila Y1 327kg/ha. mHtMr; Kasvilajit: TT Trygge 75%, NN Minto 25% + RN Rarolina 1,5 kg/ha ja PA SW Yngve 2 kg/ha; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 7.5. Yara Mila Y1 327kg/ha; Maalaji: m HtMr; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Rarolina",
-    "Ruokonata %": 1.5
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 27.5 s
-Input: INFOTEKSTI: Näytepaikka: Luopajärvi. TT Tenho 25%, Nuutti 25%, NN Fure 20%, Engl.RH Mathilde 15%, RN Kora 10%, Rainata Hykor 5%. Lann 5.5. YaraMila NK1 310 kg/ha (liete/syksy 20 tn/ha). Maalaji rm Ljs/He; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Kora",
-    "Ruokonata %": 10
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 27.5 s
-Input: INFOTEKSTI: TT-NN-raiheinä-ruokonata-seos. Lann.4.5.-21 Mila Y 2 350 kg/ha; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 28.1 s
-Input: INFOTEKSTI: 2v. nurmi. TT Nuutti 35% + Dorothy 20%, RN Karolina 15%, NN Inkeri 10%, engl.rh Riikka 10%, PA Yngve 5%, AA Frida 3%, VA Hebe 2%. Lannoitus: liete syksy 2022, ei lannoitusta kevät 2023. ; Kasvilajit: TT Nuutti 35% + Dorothy 20%, RN Karolina 15%, NN Inkeri 10%, engl.rh Riikka 10%, PA SE Yngwe 5%, AA Frida 3%, VA SW Hebe 2%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Naudanliete syksy 2022; Maalaji: nan; Muut lisätiedot: 2v. nurmi;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karolina",
-    "Ruokonata %": 15
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 28.7 s
-Input: INFOTEKSTI: Näytepaikka Luke Maaninka. 1v. nurmi. Timotei Nuutti 75 %, Nurminata Inkeri 25 %. Lannoitus 20.5. Suomensalpietari, N 100 kg/ha. Maalaji m He; Kasvilajit: Timotei Nuutti 75 %, Nurminata Inkeri 25 %; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 20.5. Suomensalpietari, N 100 kg/ha; Maalaji: m He; Muut lisätiedot: 1v. nurmi;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Inkeri",
-    "Ruokonata %": 25
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 29.1 s
-Input: INFOTEKSTI: Timotei 70%-nurminata 20%, ruokonata 10%; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": null,
-    "Ruokonata %": 30
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 29.8 s
-Input: INFOTEKSTI: TT Tenho25%+Lischka25%, Rainata Hykor15%, Eng.raih. Mathilde15%, Ruokonata Kora10%, Nurminata Fure10%, multava hietamoreeni, lannoitus 20.4.2021 Befert CAN 27 400 kg/ha, kaliumsuola (K50 %) 200 kg ; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Kora",
-    "Ruokonata %": 10
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 30.4 s
-Input: INFOTEKSTI: TT Rubinia 22%,TT Uula22%,NN SW Minto24%,NN Valtteri24%,Eng.raiheinä Riikka8%.Lann.19.4.-21 102 kg Se-salpietari.Liete 1.sadon korjuun jälkeen; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 31.0 s
-Input: INFOTEKSTI: TT Rhonia35%, TT Tuure 32%, NN Ilmari20%,  ERm Riikka 10%, RN Karoliina 3%, lann. Yara Bela axan 370kg/ha, maalaji KHt; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karoliina",
-    "Ruokonata %": 3
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 31.5 s
-Input: INFOTEKSTI: Rhonia timotei 35%-Tuure timotei 35%-Ilmari nurminata 20%-Riikka raiheinä 10%. Lannoitus 5.5.-22 Seleenisalpietari 360 kg/ ha. 20.5.-22 Thiotrac (rikkiä sis.typpilann.liuos) 5 litraa/ha; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {{
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 32.2 s
-Input: INFOTEKSTI: 3v. nurmi, 50 m mpy alempana kuin Rantasalmi 1. TT Rubinia 50% + Uula 15% + Grinstad 5%, NN Valtteri 20%, RN Karolina 5%, Engl.rh Birger 5% + Riikka 5%, AA Frida 5%. Lann Yara Y1 370 kg/ha, erm HtMr ; Kasvilajit: TT Rubinia 40% + Uula 15% + Grinstad 5%, NN Valtteri 20%, RN Karolina 5%, engl.rh Riikka 5% + Birger 5%, AA Frida 5%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 11.5. Yara Mila Y1 370 kg/ha; Maalaji: erm HtMr; Muut lisätiedot: 3v. nurmi Radanvarsi;
-Output: {  
-    "Ruokonata": 1,  
-    "Ruokonata variety": "Karolina",  
-    "Ruokonata %": 5  
-}  
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 32.8 s
-Input: INFOTEKSTI: Korjuu 18.6. TUOMIKYLÄ. 3v nurmi. TT Tuukka 25%, Tenho 15%, Grinstad 15%, NN Inkeri 20%, RN Karolina 15%, enrl.rh Riikka 10%. YaraMila Y4 410 kg/ha. erm KHt. Näytekorkeus 13.6 10 cm (aik. 8 cm); Kasvilajit: Timotei, Nurminata, Ruokonata, engl.raiheinä; Lajikkeet: TT Tuukka 25%, Tenho 15%, Grinstad 15%, MM Inkeri 20%, RN Karolina 15%, enrl.rh Riikka 10%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: YaraMila Y4 410 kg/ha; Maalaji: erm KHt; Muut lisätiedot: 3v. nurmi;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karolina",
-    "Ruokonata %": 15
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 33.3 s
-Input: INFOTEKSTI: YaraMIla Y 5 305 kg. Liete 45 m3; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: YaraMIla Y 5 305 kg. Liete 45 m3; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 33.9 s
-Input: INFOTEKSTI:  Timoteit Rhonia ja Tuure, Nurminata Ilmari, Puna-apila Saija.Täydennyskylvö TT+NN+puna-apila-1 vuot. raiheinä 7.5.-22 .Lannoitus 8.5.-22 Yara Y-2 330 kg/ha; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 33.9 s
-Input: INFOTEKSTI: nan; Kasvilajit: nan; Lajikkeet: TT: Tuure 82,5 %, NN Ilmari 12,5 %. Engl.RH Riikka 5 %; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 33.9 s
-Input: INFOTEKSTI: nan; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: YaraMila Y4 520 kg/ha; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 34.3 s
-Input: INFOTEKSTI: Lannoitus 19.5 Y4 599kg/ha + 80KG/ha kalisuola. Maalaji  Hht ja siemenenä Tuure timotei; Kasvilajit: timotei; Lajikkeet: Tuure; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 19.5 Y4 500kg/ha + kalisuola 80kg/ha; Maalaji: HHt; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 34.3 s
-Input: INFOTEKSTI: Näytepaikka: Luopajärvi. TT Tenho 25%, Nuutti 25%, NN Fure 20%, Engl.RH Mathilde 15%, RN Kora 10%, Rainata Hykor 5%. Lann 5.5. YaraMila NK1 310 kg/ha (liete/syksy 20 tn/ha). Maalaji rm Ljs/He; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Kora",
-    "Ruokonata %": 10
-}
-------
-Time: 34.3 s
-Input: INFOTEKSTI: nan; Kasvilajit: timotei, nurminata; Lajikkeet: TT Jonatan 75%, NN Kasperi 25% + 1.5.2020 täyd.kylvö 7.5 kg/ha TT Nuutti 75%, NN Inkeri 25%.; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 28.4. Y25 308 kg/ha, liete 9.5 25 m3/ha ja 30.5 Thiotrac 300 5 l/ha + mancozin 1 l/ha; Maalaji: rm KHt; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 34.8 s
-Input: INFOTEKSTI: Luomuseos: Nuutti TT 25 %,Tryggve TT 25%,SW Ares puna-apila 15%, Riikka eng.raiheinä, sinimailanen Creno 19%,koiranheinä Treposno 5%,sinimailanen Plato 1%; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 35.3 s
-Input: INFOTEKSTI: 2v. nurmi. TT Grindstad 35 % + Uula 34 %, NN Kasper 9 % + Valtteri 9 %, RN Karolina 4 %, PA Ilte 9 %. Lannoitus 9.5. YaraMila Y2 330 kg/ha. Maalaji rm KHt + m HHt; Kasvilajit: TT Grindstad 35 % + Uula 34 %, NN Kasper 9 % + Valtteri 9 %, RN Karolina 4 %, PA Ilte 9 %.; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 9.5. YaraMila Y2 330 kg/ha; Maalaji: rm KHt + m HHt; Muut lisätiedot: 2v. nurmi;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karolina",
-    "Ruokonata %": 4
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 35.9 s
-Input: INFOTEKSTI: TT Nuutti 35%, TT Dorothy 20%, NN Inkeri 10%., ER Riikka 10%, RN  Karolina 15%, PA Saija/Yngve 5%, AA Frida 3% ja VA Hebe 2%. Lann.  4.5. salpietari 140 kg ja syksyllä liete 20tn.,i Hht; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karolina",
-    "Ruokonata %": 15
-}
-------
-Time: 36.4 s
-Input: INFOTEKSTI: 2 v. nurmi.  Maalaji  HtMr m. NN Minto 25%, NN Valtteri 25%, TT Rubinia 17% ja Uula 18%, ERh Birger 10%, PApil 5%. Suom.salpietari  240 kg/ha, 64 kg N.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 36.4 s
-Input: INFOTEKSTI: nan; Kasvilajit: imotei, nurminata, ruokonata, puna-apila; Lajikkeet: Nuutti, Inkeri, Karoliina; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 1.sato, jos tehty ) Liete syksy 20 m3, kevätlannoitus yaramila Y-3, 200kg/ha = yht typpeä 80kg/ha; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 37.1 s
-Input: INFOTEKSTI: Ensimmäinen sato korjattu 4.6.2021; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 37.6 s
-Input: INFOTEKSTI: Näytepaikka Elimäki.Lann.18.4.-21.TT 60%,NN40%,täydenn.kylvö kevät -20 sinim., ruokonata, puna-apina, valkoapila, raiheinä,lann.Yara Mila Y1 ; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 37.6 s
-Input: INFOTEKSTI: nan; Kasvilajit: imotei, nurminata, ruokonata, puna-apila; Lajikkeet: Nuutti, Inkeri, Karoliina; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 1.sato, jos tehty ) Liete syksy 20 m3, kevätlannoitus yaramila Y-3, 200kg/ha = yht typpeä 80kg/ha; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 38.1 s
-Input: INFOTEKSTI: TT Grinstad 35%, TT Tammisto 2 40%, NN 15% ja RN 10%, lann. 21.4. Pellon Y3 480kg/ha; Kasvilajit: timotei, nurminata; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": null,
-    "Ruokonata %": 10
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 38.7 s
-Input: INFOTEKSTI: 2 v nurmi Maalaji rm HsH. Salpietari 27N 400 kg/ha. TT Nuutti, Grindstad, NN, RuokoN Karoliina, KoirH, Rehukatt, ItalRH. ei palkokasveja. ; Kasvilajit: Salpietari 27N 400 kg/ha. TT Nuutti, Grindstad, NN, RuokoN Karoliina, KoirH, Rehukatt, ItalRH. ei palkokasveja.; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Salpietaria 27 N 400 KG/ha; Maalaji: HsH; Muut lisätiedot: 2v. nurmi;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karoliina",
-    "Ruokonata %": null
-}
-------
-Time: 38.7 s
-Input: INFOTEKSTI: 3 v, nur. 7.5. YaraMila y25 400 kg/ha. Lietettä syksyllä 20 m3/ha. TT Grindstad 25%, TT Rhonia 20%, NN Inkeri 20%, RaiN Hykor 10%, Erh Riikka 10%, RN Karoliina5%, PA Saija7%, SWHebe3%.  Ei täydk. -24.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karoliina",
-    "Ruokonata %": 5
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 38.7 s
-Input: INFOTEKSTI: Näytepaikka: Luopajärvi. TT Tenho 25%, Nuutti 25%, NN Fure 20%, Engl.RH Mathilde 15%, RN Kora 10%, Rainata Hykor 5%. Lann 5.5. YaraMila NK1 310 kg/ha (liete/syksy 20 tn/ha). Maalaji rm Ljs/He; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Kora",
-    "Ruokonata %": 10
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 39.2 s
-Input: INFOTEKSTI: rm HtMr,TT Tuure 65%, NN Ilmari 25%, ER Riikka 10%, täydennetty TT Tuukka 80%, NN Ilmari 20%, lann. 3.5. Yara Y2 270kg/ha; Kasvilajit: timotei, nurminata, englanninraiheinä; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": null,
-    "Ruokonata variety": null,
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 39.7 s
-Input: INFOTEKSTI: 2 v. nurmi. TT Rubinia, NN, RuokN Karoliina. Lann. 100 kg N/ha. Kärsi paljon jääpoltteesta. Täydennetty keväällä.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
-Output: {
-    "Ruokonata": 1,
-    "Ruokonata variety": "Karoliina",
-    "Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Input: NaN -row **
-Output: {
-"Ruokonata": null,
-"Ruokonata variety": null,
-"Ruokonata %": null
-}
-------
-Time: 40.1 s
-Input: INFOTEKSTI: 3v. nurmi. Carbo 3.niiton seos: TT Rubinia 35% + Uula 15%, RN Karolina 20%, NN Valtteri 15%, PA Yngve 7%, AA Frida 5%, VA Hebe 3%. Lannoitus 14.5. YaraMila Y3 336 kg/ha. Maalaji erm KHt; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Time: 16.3 s
+Input: INFOTEKSTI: 3v. nurmi. TT Nuutti 50%, NN Inkeri 15%, RN Karolina 20%, PA Yngve 9%, AA Frida 3%, VA Hebe 3%. Lannoitus N-xt Terra 22 300 kg/ha (liete syksy-200 24m3/ha). Maalaji m Hs/HHt; Kasvilajit: TT Nuutti 50%, NN Inkeri 15%, RN Karolina 20%, PA Yngve 9%, AA Frida 3%, VA Hebe 3 %; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 10.5. N-xt Terra 22 300 kg/ha, syksy -22 liete 25 m3/ha; Maalaji: m hsHHt; Muut lisätiedot: 3v. nurmi;
 Output: {
     "Ruokonata": 1,
     "Ruokonata variety": "Karolina",
@@ -3466,12 +807,291 @@ Output: {
 "Ruokonata %": null
 }
 ------
-Time: 41.1 s
-Input: INFOTEKSTI: TT Uula 36% + Hertta 26% + Tenho 16 %, NN Valtteri 12%, RN Karolina 7,5%, PA SW Yngve 2,5%. Lannoitus 5.5. Yara1 245 + YaraBela Sesp 172 kg/ha. Maalaji m KHt. 2v.nurmi; Kasvilajit: TT Uula 36% + Hertta 26% + Tenho 16 %, NN Valtteri 12%, RN Karolina 7,5%, PA SW Yngve 2,5%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 5.5. Yara 1 245 + SeSp 172 kg/ha; Maalaji: m KHt; Muut lisätiedot: 2v. nurmi;
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 16.9 s
+Input: INFOTEKSTI: Nuutti TT60 %,NN Inkeri 40%. Lann.29.4  250 kg/ha sekä liete ; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Time: 17.8 s
+Input: INFOTEKSTI: nan; Kasvilajit: Lantmänen maistuva eng. rh seos; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 3.5. Mila Y20 255 kg/ha; Maalaji: HeS; Muut lisätiedot: nan;
+Output: {{
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 18.3 s
+Input: INFOTEKSTI: 1 v nurmi. rm Hiesu. Perustettu Hankkijan Laatu-seoksella. Lietettä pers.vuonna. ei nyt. Se-salpietaria 380 kg/ha.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 19.1 s
+Input: INFOTEKSTI: näytepaikka NILSIÄ. Lannoitus: YaraBela SeSP 250 kg/ha, liete 30 tn/ha; Kasvilajit: timotei, nurminata; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: YaraBela SeSP 250 kg/ha, liete/kevät 30 tn/ha; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 20.4 s
+Input: INFOTEKSTI: Näytepaikka koulutila. Ei lannoitettu. TT Rakel 62%, NN Valtteri 20%, RN Karolina 8%, PA SW Yngve 4%, AA Frida 4%, VA SW Hebe. Maalaji mHHt; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
 Output: {
     "Ruokonata": 1,
     "Ruokonata variety": "Karolina",
-    "Ruokonata %": 7.5
+    "Ruokonata %": 8
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 21.2 s
+Input: INFOTEKSTI: 3.vuoden TT-NN-nurmi. Lannoitus 6.5.-22 Laatu Agro 28-3-5+S+Mn+Zn+ Se 370 kg/ha; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Time: 22.0 s
+Input: INFOTEKSTI: Timotei/nurminata kylvetty 65/35 %, 3.satovuosi, lannoitus29.4. 350 kg/ha Yara Bela SeleeniSalpietari (94.5 kg N/ha), Maalaji multava hietasavi ; Kasvilajit: Timotei/nurminata kylvetty 65/35 %; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 29.4. 350 kg/ha Yara Bela SeleeniSalpietari (94.5 kg N/ha); Maalaji: Multava hietasavi; Muut lisätiedot: 3.satovuosi;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": null,
+    "Ruokonata %": 35
 }
 ------
 Input: NaN -row **
@@ -3544,8 +1164,123 @@ Output: {
 "Ruokonata %": null
 }
 ------
-Time: 41.7 s
-Input: INFOTEKSTI: LUOMU. B Naturcom apilapitoinen säilörehuseos: TT 60%, NN 20%, PA 10%, VA 5%, AA Frida 5%. Lannoitus 16.5. Naudanliete, sijoitus 25 tn/ha. Maalaji m HtMr; Kasvilajit: Naturcom apilapitoinen säilörehuseos; Lajikkeet: TT 60%, NN 20%, pa 10%, VA 5%, AA Frida 5%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 16.5. Naudanliete, sijoitus 25 tn/ha; Maalaji: m HtMr; Muut lisätiedot: LUOMU;
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 22.8 s
+Input: INFOTEKSTI: Näytepaikka Korpijärvi, liete 20 tn/ha + YaraMila NK1 200 kg/ha, erm KHt; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Liete 20 tn/ha + YaraMila NK1 200 kg/ha; Maalaji: erm KHt; Muut lisätiedot: 2v. nurmi;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Time: 23.7 s
+Input: INFOTEKSTI: Korjuu 21.6. TT, NN, RN, engl.rh, Puna-, valko- ja alsikeapila. Lannoitus 8.5. NK1 400 kg/ha; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 24.7 s
+Input: INFOTEKSTI: Näytepaikka koulutila. LUOMU. TT Tryggve 52%, NN SW Revansch 17%, RN Swaj 10,5%, PA SW Yngve 10%, AA Frida 7%, VA Lena 3,5%. Lannoitus Polysulfaatti 150 kg/ha. Maalaji m HHt; Kasvilajit: TT Tryggve 52%, NN SW Rewanch 17%, RN Swaj 10,5 %, PA SW Yngve 10%, AA Apila Frida 7%, VA Lena 3,5 %; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Polysulfaatti 150 kg/ha; Maalaji: m HHt; Muut lisätiedot: 2v. nurmi;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Swaj",
+    "Ruokonata %": 10.5
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 25.6 s
+Input: INFOTEKSTI: 2 v nurmi. Carbo 3 niiton seos , hieno hieta, Lannoitus: 350 kg Befert 27-3-5 = 94,5 kg N/ha.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
 Output: {
     "Ruokonata": null,
     "Ruokonata variety": null,
@@ -3573,12 +1308,2267 @@ Output: {
 "Ruokonata %": null
 }
 ------
-Time: 42.3 s
-Input: INFOTEKSTI: Timotei 70% Nurminata20% 2v rengl raiheinä 10%	Grinstad 	Yara Y 10 390 kg; Kasvilajit: Timotei 70% Nurminata20% 2v rengl raiheinä 10%; Lajikkeet: Grinstad Kaper; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 26.4 s
+Input: INFOTEKSTI: LUOMU. Ei lannoitusta. TT 70%: Tammisto II, Uula, NN Kasper 17%, SW Yngve 7%, AA Dawn ja Frida 6%. Maalaji m HHt/Hs/KHt; Kasvilajit: timotei, nurminata, puna-apila, alsikeapila; Lajikkeet: TT 70%: Tammisto II, Uula, NN Kasper 17%, SW Yngve 7%, AA Dawn ja Frida 6%.; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Ei lannoitusta; Maalaji: m HHt/Hs/KHt; Muut lisätiedot: LUOMU;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "nurminata",
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 27.3 s
+Input: INFOTEKSTI: Näytepaikka koulutila . TT Grindstadt 75 %, NN Minto 25 % (Etelän paalinurmiseos). Lann 10.5. A-moniravinne (NPK). mHHt; Kasvilajit: Etelän paalinurmiseos; Lajikkeet: TT Grindstadt 75 %, NN Minto 25 %; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 10.5. A-moniravinne (NPK); Maalaji: m HHt; Muut lisätiedot: nan;
 Output: {
     "Ruokonata": null,
     "Ruokonata variety": null,
     "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 29.0 s
+Input: INFOTEKSTI: 2 v nurmi, perust. Carbo 3 niiton  seoksella. Täyden. -22 Carbo täyd.kylvöseoksella. Yara Y3 320 kg/ha.  pH 6,2.; Kasvilajit: nan; Lajikkeet: CARBO-siemen käytössä!; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 29.0 s
+Input: INFOTEKSTI: nan; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Yarabela seleenisalpietari 440 kg; Maalaji: nan; Muut lisätiedot: nan;
+Output: {{
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 29.9 s
+Input: INFOTEKSTI: LUOMU. TT Tenho 25 % + Rhonia 25 %, NN Valtteri 15 %, engl.rh 10 %, Niittynurmikka Balin 5 %, PA SW Ares 5 % + Rozeta 5 %, VA Klondike 5 %. Naudanliete viimeksi 20.6.2022 20 tn/ha. Maalaji  Multamaa; Kasvilajit: TT Tenho 25 % + Rhonia 25 %, NN Valtteri 15 %, engl.rh 10 %, Niittynurmikka Balin 5 %, PA SW Ares 5 % + Rozeta 5 %, VA Klondike 5 %; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: Mm; Muut lisätiedot: LUOMU;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 30.6 s
+Input: INFOTEKSTI: Korj13.6. TT Tenho 25% ja Lischka 25%, Rainata Hykor 15%, Eng.Raiheinä Mathilde 15%, Ruokonata Kora 10%, NN Fure 10%, 24.4. Belor kaliumsuola 150kg/ha, 25.4. Belor Premium N27 400 kg/ha, rm  hiuesavi; Kasvilajit: Timotei Tenho 25 %, Lischka Timotei 25 %, Rainata Hykor 15 %, Eng.Raiheinä Mathilde 15 %, Ruokonata Kora 10 %, Nurminata Fure 10 %; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 24.4. Belor kaliumsuola 150 kg/ha, 25.4. Belor Premium N27 400 kg/ha; Maalaji: runsasmultainen hiuesavi; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Kora",
+    "Ruokonata %": 10
+}
+------
+Time: 31.5 s
+Input: INFOTEKSTI: 2 v. nurmi. Maalaji Hts. Lann. Belor N  27, 95 kg N/ha. TS Ruokonataseos Karoliina 10%, NN Valtteri 20%, TT Rubinia 35 %+ Uula 35%.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Karoliina",
+    "Ruokonata %": 10
+}
+------
+Time: 32.4 s
+Input: INFOTEKSTI: Korjuu 15.6. JALASJÄRVI-LUOPAJÄRVI. TT Tenho 25%, Nuutti 25%, NN Fure 20%, Engl.RH Mathilde 15%, RN Kora 10%, Rainata Hykor 5%.  Lann. 23.4. YaraMila Y25 340 kg/ha. Maalaji rm Ljs/HeS; Kasvilajit: Timotei, rainata, engl.RH, ruokonata, Nurminata; Lajikkeet: TT Tenho 25%, Nuutti 25%, NN Fure 20%, Engl.RH Mathilde 15%, RN Kora 10%, Rainata Hykor 5%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 23.4. Yara Mila Y25 340 kg/ha; Maalaji: rm HeS/Ljs; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Kora",
+    "Ruokonata %": 10
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 33.2 s
+Input: INFOTEKSTI: 1 v nurmi. HHiesu. Carbo-3 niiton seos. TT Rubinia 35% ja Uula 15%, Karolina 20%, NN Valtteri 15%, Valkoapil Hebe 3%, AlsikeApil 5%, Yngve  PunA 7%. NK1 350 kg eli 87 kg N/ha. ; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 34.0 s
+Input: INFOTEKSTI: TT Tuure, nurminata, englanninraiheinä, lann. 15.4. 100kgN (Salpietari, kakkoselle liete), ei täydennetty; Kasvilajit: timotei, nurminata, ruokonata; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 34.0 s
+Input: INFOTEKSTI: nan; Kasvilajit: Timotei Tenho 25 %, Lischka Timotei 25 %, Rainata Hykor 15 %, Eng.Raiheinä Mathilde 15 %, Ruokonata Kora 10 %, Nurminata Fure 10 %; Lajikkeet: Timotei Tenho 25 %, Lischka Timotei 25 %, Rainata Hykor 15 %, Eng.Raiheinä Mathilde 15 %, Ruokonata Kora 10 %, Nurminata Fure 10 %; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Yarabela Axan 100 kg/ha 25.4.2023, separoidun lannan nestejae 40 m3/ha 25.4.2023; Maalaji: runsasmultainen hiuesavi / multava hietamoreeni; Muut lisätiedot: nan;
+Output: {{
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 34.8 s
+Input: INFOTEKSTI: Näytepaikka Artjärvi. Apilapitoinen timotei,nurminata ,ruokonatanurmi. Lannoitus 24.4.-20; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "nurminata",
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 35.5 s
+Input: INFOTEKSTI: 2v nurmi. Hiesusavi.  Nurmiseos Hiisi 3. Lannoitus 350 kg/ha polar npks (27-2-4-3); Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 36.5 s
+Input: INFOTEKSTI: 3 v nurmi. Seos Hiisi 3, TT Hertta+Nuutti, RN Karoliina, NN Inkeri, ERH Riikka, Pap. Selma+Saija, Alsikea. Frida, Vap Hebe. Maalaji HhS. Lannoitus Y1 350 kg/ha. Liete sijoittamalla syyskuussa.; Kasvilajit: Seos Hiisi 3, TT Hertta+Nuutti, RN Karoliina, NN Inkeri, ERH Riikka, Pap. Selma+Saija, Alsikea. Frida, Vap Hebe.; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Y1 350 kg/ha. Lietettä syyskuussa -23; Maalaji: HhS; Muut lisätiedot: 3v. nurmi;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Karoliina",
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 37.1 s
+Input: INFOTEKSTI: 2v. nurmi, m HHt. TT Rubinia 25% + Grindstad 25% + Uula 13%, NN Valtteri 10%, RN Karolina 8%, Engl.rh Riikka 8% + Birger 8%, Koiranh Amba 3%. Lann 9.5. YaraMilaY25 400 kg/ha + polysulfaatti 125 kg/ha.; Kasvilajit: TT: Rubinia 25%, Grindstad 25%, Uula 13%, NN Valtteri 10%, RN Karolina 8%, ERH: Riikka 8%, Birger 8%, KH Amba 3%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 9.5. YaraMila Y25 400 kg/ha + Polysulfaatti 125 kg/ha; Maalaji: m HHt; Muut lisätiedot: 2v. nurmi;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Karolina",
+    "Ruokonata %": 8
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 37.9 s
+Input: INFOTEKSTI: rm HtMr,TT Tuure 65%, NN Ilmari 25%, ER Riikka 10%, täydennetty TT Tuukka 80%, NN Ilmari 20%, lann. 3.5. Yara Y2 270kg/ha; Kasvilajit: timotei, nurminata, englanninraiheinä; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Time: 38.6 s
+Input: INFOTEKSTI: Korjuu 19.6. TT Tuukka ja Tenho yht 75%, NN Nuutti 25%, vähän puna-apila Altaswede. Lannoitus 30.4. A-typpi 350 kg/ha. Maalaji  rm KHt; Kasvilajit: timotei, nurminata, puna-apila; Lajikkeet: TT Tuukka ja Tenhoa yh. 75%, NN Nuutti 25 %, PA Altaswede; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 30.4. A-typpi 350 kg/ha; Maalaji: rm KHt; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 39.4 s
+Input: INFOTEKSTI: KEUDA,Mäntsälän koulutila.TT Tuure 80% NN Ilmari 20%.Lann.29.4.-21 karjanlanta sekä 4.5.-21 N 27%  Se 4% ; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 40.1 s
+Input: INFOTEKSTI: 4 satov. nurmi. HeS/HtMr. TammistoII 30%, Uula 23%, NN Kasper 10 %, RN Kora + Karoliina; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Kora, Karoliina",
+    "Ruokonata %": 30
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 41.5 s
+Input: INFOTEKSTI: 2v. nurmi missä Koiranheinää 30-40%.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Time: 42.2 s
+Input: INFOTEKSTI: 2v. nurmi. maalaji He. TS Laatunurmiseos  TT Rubinia 40% + Uula 25%, NN Ilmari 15% + Minto 5%,  EngRH Riikka 10% + Mathilde 5%.  Lan. Beör Premium N 27+Mg 240 kg/ha = 65 kg N/ha.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 42.9 s
+Input: INFOTEKSTI: 2 v. nurmi. Seos TT  Rubinia 45%, NN Valtteri 20%, EngRH Birger 15%,  RN Svaj 11% ja KH Amba 9%. Lann. 5.5. 300 kg/ha Seleenisalp. Rikkaruisk. 13.5.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Svaj",
+    "Ruokonata %": 11
+}
+------
+Time: 42.9 s
+Input: INFOTEKSTI: nan; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: YaraMilaY4 600 kg, Gamitrel 1l/ha Thiotrac 5l/ha; Maalaji: nan; Muut lisätiedot: nan;
+Output: {{
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 42.9 s
+Input: INFOTEKSTI: Näytepaikka Ala-Härmä.; Kasvilajit: Timotei, nurminat, ruokonata, valkoapila; Lajikkeet: TT Tuure 75%, NN Ilmari 10%, RN Karolina 15%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: YaraMila Y1 360 kg/ha; Maalaji: rm HHt; Muut lisätiedot: 1v. nurmi;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Karolina",
+    "Ruokonata %": 15
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 43.6 s
+Input: INFOTEKSTI: 1v. nurmi. Hankkija Tuottava: TT Tuure 35% + Rhonia 25%, NN Klaara 20%, RN Karolina 10%, engl.rh Riikka 10%.  Lannoitus 6.5. Polysulfaatti 125 kg/ha + 7.5.  Y25 410 kg/ha. Maalaji  m HtS + rm  HHt; Kasvilajit: Hankkijan Tuottava-nurmiseos, TT: Tuure 35%, Rhonia 25%, NN Klaara 20%, RN Karolina 10%, ERH Riikka 10%; Lajikkeet: TT Tuure 35% + Rhonia 25%, NN Klaara 20%, RN Karolina 10%, Engl.rh Riikka 10%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 6.5. Polysulfaatti 125 kg/ha + 7.5. Y25 410 kg/ha; Maalaji: rm HHt / m HtS; Muut lisätiedot: 1v. nurmi;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Karolina",
+    "Ruokonata %": 10
+}
+------
+Time: 45.1 s
+Input: INFOTEKSTI: 2v. nurmi: TT Grinstad 30% + Rubinia 20% + Uula 20%, NN Valtteri 10%, RN Karoliina 10%, engl.RH Riikka 10%. Lann. 9.5. Agro (28-3-5)+S+Mn+Zn+Se 370 kg/ha. Maalaji erm HtMr; Kasvilajit: TT Grinstad 30 % + Rubinia 20 % + Rubinia 20, NN Fure 20 %, englrh Mathilde 15 %, RN kora 10 % + Hykor 5 %; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 9.5. Agro (28-3-5)+S+Mn+Zn+Se 370 kg/ha; Maalaji: rm HtMr; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Kora, Karolina",
+    "Ruokonata %": 20
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 45.9 s
+Input: INFOTEKSTI: TT Grindstad 60%, Nurminata Minto 10%, ruokonata Swaj 10%, eng.raiheinä 20%; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Swaj",
+    "Ruokonata %": 10
+}
+------
+Time: 47.1 s
+Input: INFOTEKSTI: HHT / HsHt, TT Uula 20%, TTTenho 20%, NN Kasper 10%, NN Valtteri 10%, ER Riikka 10%, PA Ilte 15%, RN Karolina 9%, AA Frida 3% ja VA Jögeva 3%, täydennetty n.sama seos, lann. huhtikuun lop. ja virtsa ; Kasvilajit: imotei, nurminata, ruokonata, puna-apila; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Karolina",
+    "Ruokonata %": 9
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 48.0 s
+Input: INFOTEKSTI: 3v nurmi rm HiueSavella. pH 6,1.  Perust Tilasiemenen apilaseos. Lann. Belor Premium 27 Se 360 kg, eli 97 kg N/ha. ; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 48.6 s
+Input: INFOTEKSTI: Sama siemenseos kuin Salo3. Täyd.kylvö 9.4.-20. Lan. 10.4. 320 kg/ha Y20 + 10 kg starttiravinne. 2 sato korj. 28.7. 3 on lannoittamaton.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Time: 49.5 s
+Input: INFOTEKSTI: Näytepaikka NILSIÄ. 3v. nurmi. Lannoitus: YaRAmILA y3 hIVEN 450 KG/HA; Kasvilajit: timotei, nurminata; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: YaraMila Y3 Hiven 450 kg/ha; Maalaji: nan; Muut lisätiedot: 3v. nurmi;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 50.1 s
+Input: INFOTEKSTI: Valio Carbo 3.niiton seos.  Lannoitus 7.5. YaraMila Y3 450 kg/ha. Maalaji m HtMr. 2v.nurmi; Kasvilajit: Carbo siemenseos; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 7.5. YaraMila Y3 450 kg/ha; Maalaji: m HtMr; Muut lisätiedot: 2v. nurmi;
+Output: {{
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 51.0 s
+Input: INFOTEKSTI: runsasmult. hiuesavi/ multava hietamoreeni, TT Tenho25% ja Lischka25%, Rainata Hykor15%, Eng.raih Mathilde15%, Ruokonata Kora10%, NN Fure10%. Lannoitus: 10.5. BefertCAN27 400kg/ha, kalisuola  200kg/ha; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Kora",
+    "Ruokonata %": 10
+}
+------
+Time: 52.0 s
+Input: INFOTEKSTI: 2v. nurmi. Belor agro 400kg/ha (27 N) ei lietettä. ; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {{
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 52.8 s
+Input: INFOTEKSTI: 2v nurmi. mHts, pH6,5. N 100 kg/ha Belor 27. TT Tryggve 30%+ Nuutti 30%+ Alma10%, NN Vestar 10%+ Kasper 10%+ Arita 5%, RuokN Retu 5%.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Retu",
+    "Ruokonata %": 5
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 53.7 s
+Input: INFOTEKSTI: Hs m. TT + NN. Belor (27-0-0 ) 250 kg/ha. 31.5. lietettä 30 t/ha.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 54.4 s
+Input: INFOTEKSTI: Nuutti timotei 70%-Inkeri nurminata 10%-Mathilde eng.raiheinä 10%-Karoliina ruokonata 10%.lann. Suomen salpietari 350 kg/ha     -; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {{
+    "Ruokonata": 1,
+    "Ruokonata variety": "Karoliina",
+    "Ruokonata %": 10
+}}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 55.2 s
+Input: INFOTEKSTI: TT Nuutti 60 %, NN Inkeri 30 %, PA Yngve 10 %. 17.5. YaraBela SeSP 410 kg/ha. Maalaji m Hs; Kasvilajit: TT Nuutti 60%, NN Inkeri 30%, PA Yngve 10%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 17.5. YaraBela SeSP 410 kg/ha; Maalaji: m Hs; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 55.2 s
+Input: INFOTEKSTI: nan; Kasvilajit: imotei, nurminata, ruokonata, puna-apila; Lajikkeet: Nuutti, Inkeri, Karoliina; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 1.sato, jos tehty ) Liete syksy 20 m3, kevätlannoitus yaramila Y-3, 200kg/ha = yht typpeä 80kg/ha; Maalaji: nan; Muut lisätiedot: nan;
+Output: {{
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 56.0 s
+Input: INFOTEKSTI: TT Nuutti 45 % + Tenho 45%, RN Retu 10%. 15.5. YaraBela SSP 180 kg/ha + 21.5. Nestejae 35 tn/ha.  2v. nurmi; Kasvilajit: TT Nuutti 45 % + Tenho 45%, RN Retu 10%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 15.5. YaraBela SSP 180 kg/ha + 21.5. Nestejae 35 tn/ha; Maalaji: rm HHt; Muut lisätiedot: 2v. nurmi;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Retu",
+    "Ruokonata %": 10
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 56.7 s
+Input: INFOTEKSTI: 3 v nurmi.  Lann. 22.4. Yara NK1 25-0-7 450 kg/ha. Rm . pH 7,0. Kylv. 40 kg/ha TT Grindstad 70%, NN Revanch 15%, RH Birger 15%.,; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Time: 57.5 s
+Input: INFOTEKSTI: Maalaji: KHt multava Lannoitus: YaraMila Y3 520kg/ha 11.05.2023 Kasvit: Timotei Tuure 65%, Nurminata Ilmari 20%, Engl.raiheinä Riikka 10%, Ruokonata Karolina 5%; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Karolina",
+    "Ruokonata %": 5
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 58.2 s
+Input: INFOTEKSTI: 2v nurmi. Liete syksy-21+ N 65 kg/ha -22. Seos NN Minto 25%+ Valtteri 25%, TT Rubinia 17%+ Uula 18%, EngRh Birger 10%, Punaap Ilte 5%.; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 58.2 s
+Input: INFOTEKSTI: nan; Kasvilajit: Timotei 70% Nurminata20% 2v rengl raiheinä 10%; Lajikkeet: Grinstad Kaper; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {{
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 59.0 s
+Input: INFOTEKSTI: 2 v nurmi. Runsasm pH 7.0. Kylv. 40 kg/ha  TT Grindstad 70%, NN Revanch 15%, RaiH Birger 15%. Lann. Yara NK125-0-7 400 kg/ha; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 59.8 s
+Input: INFOTEKSTI: TT Uula, 30% Nuutti 20%, NN MInto 10%, Valtteri 10- %, RN Karolina 15%, ER Riikka 5%, PA Ilte 8%, VA Jögeva 2%. Lann. Pellon Y3 200kg ja virtsa; Kasvilajit: nan; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: nan; Maalaji: nan; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Karolina",
+    "Ruokonata %": 15
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 59.8 s
+Input: INFOTEKSTI: TT Nuutti 60 %, NN Inkeri 30 %, PA Yngve 10 %. 17.5. YaraBela SeSP 410 kg/ha. Maalaji m Hs; Kasvilajit: TT Nuutti 60%, NN Inkeri 30%, PA Yngve 10%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 17.5. YaraBela SeSP 410 kg/ha; Maalaji: m Hs; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 60.5 s
+Input: INFOTEKSTI: :   Timotei 80% nurminata 13% Ruokonata 5% valkoapila 2%tuure 50% rhonja 30% minto13% karoliina5%, Yara Mila NK1/.  400kg/ha, multava karkeahieta        3. vuoden nurmi; Kasvilajit: : Timotei 80% nurminata 13% Ruokonata 5% valkoapila 2%; Lajikkeet: · tuure 50% rhonja 30% minto13% karoliina5%; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: Yara Mila NK1/. 400kg/ha; Maalaji: multava karkeahieta; Muut lisätiedot: 3v. nurmi;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Karoliina",
+    "Ruokonata %": 5
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 61.3 s
+Input: INFOTEKSTI: Näytepaikka Luopajärvi. 2v. nur TT Tuure 35% + Rhonia 25%, NN Klaara 20%, RN Karolina 10%, engl.rh Riikka 10%. lannoitus  6.5. YaraMila Y10 380 kg/ha + YaraLiva Nitrabor N15 130 kg/ha. Maalaji  rm HHt; Kasvilajit: TT: Tuure 35%, Rhonia 25%, NN Klaara 20%, RN Karolina 10%, ERH Riikka 10%; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 6.5. YaraMila Y10 380 kg/ha + YaraLiva Nitrabor N15 130 kg/ha; Maalaji: rm HHt; Muut lisätiedot: Koskinen 2v. nurmi;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Karolina",
+    "Ruokonata %": 10
+}
+------
+Time: 61.3 s
+Input: INFOTEKSTI: nan; Kasvilajit: timotei, nurminata; Lajikkeet: TT Jonatan 75%, NN Kasperi 25% + 1.5.2020 täyd.kylvö 7.5 kg/ha TT Nuutti 75%, NN Inkeri 25%.; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 28.4. Y25 300 kg/ha, liete 9.5 29,5 m3/ha ja 30.5 Thiotrac 300 5 l/ha + mancozin 1 l/ha; Maalaji: rm KHt; Muut lisätiedot: nan;
+Output: {{
+    "Ruokonata": null,
+    "Ruokonata variety": null,
+    "Ruokonata %": null
+}}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Time: 62.0 s
+Input: INFOTEKSTI: Näytepaikka Luopajärvi. Karjatilan 3-niiton nurmiseos: TT Tenho 30% + Rubinia 20%, NN Fure 20%, englrh Mathilde 15%, RN Kora 10%, rainata Hykor 5%. Lann 10.5. SSP 410 kg/ha. Maalaji rm/erm HtS. 2v. nu; Kasvilajit: TT Tenho 30 % + Rubinia 20 %, NN Fure 20 %, engl.rh Mathilde 15 %, RN Kora 10 %, Rainata Hykor 5 %; Lajikkeet: nan; Nurmen ikä: nan; Lannoitus, ajankohta ja -määrä: 8.5. YaraMila Y3 350 kg/ha; Maalaji: rm He, rm Ljs; Muut lisätiedot: nan;
+Output: {
+    "Ruokonata": 1,
+    "Ruokonata variety": "Kora",
+    "Ruokonata %": 10
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
+}
+------
+Input: NaN -row **
+Output: {
+"Ruokonata": null,
+"Ruokonata variety": null,
+"Ruokonata %": null
 }
 ------
 Input: NaN -row **
